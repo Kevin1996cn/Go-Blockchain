@@ -18,3 +18,9 @@ rpc目录
 -
 - server.go 利用Go语言自带的http库，实现了一个简单的server。
 通过浏览器访问接口返回Json格式的区块信息.
+
+效果如下
+-
+ ![image]( picture/get.png)
+ ![image]( picture/write-before.png)
+ ![image]( picture/write-after.png)
